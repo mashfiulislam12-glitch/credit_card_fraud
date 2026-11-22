@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "mahi_sql",
+            "database": "mahi_db_50",
+            "username": "postgres",
+            "password": "mysecret"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "my_sql",
+            "database": "mim50502",
+            "username": "mahi5052",
+            "password": "mahi123zaq"
+        }
+    ]
+}
